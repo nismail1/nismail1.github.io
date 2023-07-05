@@ -81,7 +81,7 @@ let swiper = new Swiper('.portfolio__container', {
       el: ".swiper-pagination",
       clickable: true,
     },
-
+    
   });
 
 /*==================== TESTIMONIAL ====================*/
